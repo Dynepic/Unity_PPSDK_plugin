@@ -9,14 +9,14 @@ The playPORTAL SDK, as supported with this Unity plugin, provides a simple mecha
 
 * ### <b>Step 1:</b> Create playPORTAL Studio Account
 
-	* Navigate to [playPORTAL Studio](https://studio.iokids.net)
+	* Navigate to [playPORTAL Studio](https://studio.playportal.io)
 	* Click on <b>Sign Up For FREE Account</b>
 	* After creating your account, email us at [info@playportal.io](mailto:info@playportal.io?subject=Developer%20Sandbox%20Access%20Request) to verify your account.
   </br>
 
 * ### <b>Step 2:</b> Register your App with playPORTAL
 
-	* After confirmation, log in to the [playPORTAL Studio](https://studio.iokids.net)
+	* After confirmation, log in to the [playPORTAL Studio](https://studio.playportal.io)
 	* In the left navigation bar click on the <b>Apps</b> tab.
 	* In the <b>Apps</b> panel, click on the "+ Add App" button.
 	* Add an icon, name & description for your app.
